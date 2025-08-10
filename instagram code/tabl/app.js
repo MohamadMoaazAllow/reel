@@ -24,3 +24,4 @@ const Brands = [
 
 console.table(Brands);
 
+
