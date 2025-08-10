@@ -1,7 +1,7 @@
 const Brands = [
   {
     name: "Zara",
-    sharePrice: 412,
+    sherePrice: 412,
   },
   {
     name: "Samsung",
@@ -23,3 +23,4 @@ const Brands = [
 ];
 
 console.table(Brands);
+
